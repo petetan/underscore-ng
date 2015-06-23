@@ -1,0 +1,25 @@
+{
+  "name": "underscore-ng",
+  "version": "1.8.3",
+  "authors": [
+    "Blake Petetan <blake@blake.me>"
+  ],
+  "description": "underscore.js factory for AngularJS",
+  "main": "underscore-ng.js",
+  "keywords": [
+    "underscore",
+    "angular"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/petetan/underscore-ng",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.8.3"
+  }
+}
